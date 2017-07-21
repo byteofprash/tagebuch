@@ -6,5 +6,5 @@ Keine gut Idee.
 
 
 
-__aufgeben__ : Give up __ 
+__aufgeben__ : Give up <br />
 __reinigen__ : Clean
